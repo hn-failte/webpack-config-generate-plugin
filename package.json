@@ -1,6 +1,6 @@
 {
   "name": "webpack-config-generate-plugin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "dependencies": {
     "@babel/core": "^7.16.0",
