@@ -1,0 +1,16 @@
+{
+  "SERVER": {
+    "CONFIG_HOST": {
+      "description": "HOST配置",
+      "value": "process.env.HOST"
+    },
+    "CONFIG_PORT": {
+      "description": "HOST配置",
+      "value": "process.env.PORT"
+    },
+    "CONFIG_YES": {
+      "description": "HOST配置",
+      "value": "process.env.PORT === '3000'"
+    }
+  }
+}
