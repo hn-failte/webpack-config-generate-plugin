@@ -1,8 +1,8 @@
 {
   "name": "webpack-config-generate-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
-  "dependencies": {
+  "devDependencies": {
     "@babel/core": "^7.16.0",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
     "@svgr/webpack": "^5.5.0",
